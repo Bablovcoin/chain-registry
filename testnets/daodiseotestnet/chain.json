@@ -134,6 +134,12 @@
       "account_page": "https://exp.stakevillage.net/odiseo-testnet/account/${accountAddress}"
     },
     {
+      "kind": "Bablovcoin",
+      "url": "https://exp.wb-ozon-promo.ru/odiseo-testnet",
+      "tx_page": "https://exp.wb-ozon-promo.ru/odiseo-testnet/txs/${txHash}",
+      "account_page": "https://exp.wb-ozon-promo.ru/odiseo-testnet/account/${accountAddress}"
+    },
+    {
       "kind": "custom",
       "url": "https://explorer.YOURVALIDATOR.net/odiseo",
       "tx_page": "https://explorer.YOURVALIDATOR.net/odiseo/txs/${txHash}",
