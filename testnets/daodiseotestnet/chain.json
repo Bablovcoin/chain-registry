@@ -57,8 +57,12 @@
         "provider": "WHEN MOON 🌕 WHEN LAMBO 🔥"
       },
       {
-        "address": "https://odiseo-testnet.rpc.stakevillage.net:443",
+        "address": "https://odiseo-testnet.rpc.wb-ozon-promo.ru:443",
         "provider": "Stake Village"
+      },
+      {
+        "address": "https://odiseo-testnet.rpc.stakevillage.net:443",
+        "provider": "Bablovcoin"
       },
       {
         "address": "https://rpc.YOURVALIDATOR.net",
@@ -87,6 +91,10 @@
         "provider": "Stake Village"
       },
       {
+        "address": "https://odiseo-testnet.api.wb-ozon-promo.ru",
+        "provider": "Bablovcoin"
+      },
+      {
         "address": "https://api.YOURVALIDATOR.net",
         "provider": "YOUR_VALIDATOR_NAME"
       }
@@ -95,6 +103,10 @@
       {
         "address": "daodiseo-testnet-grpc.stakerhouse.com:443",
         "provider": "StakerHouse"
+      },
+      {
+        "address": "odiseo-testnet.grpc.wb-ozon-promo.ru:443",
+        "provider": "Bablovcoin"
       },
       {
         "address": "odiseo-testnet.grpc.stakevillage.net:443",
